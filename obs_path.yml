@@ -1,0 +1,9 @@
+# (TODO) Configuration for Obsidian Super-Vault
+
+# Must Fill ----------------------------------------------------
+
+## Please provide absolute path to Super-Vault where each vault will lives in.
+PATH_OBS_SUPERVAULT: "/Users/kittipos/Library/Mobile Documents/iCloud~md~obsidian/Documents"
+
+## Path to "Obsidian help" vault
+PATH_OBS_HELP_VAULT: "/Users/kittipos/Library/Application Support/obsidian/Obsidian Help"
