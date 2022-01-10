@@ -16,7 +16,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 		- `tempGlobal/`
 	- User_Vault_1
 		- `.obsGlobal` (symlink files [Ω](#ω))
-		- `tempGlobal` (symlink to `_obsconfig`)
+		- `tempGlobal` (symlink to `_obsconfig/tempGlobal`)
 		- `.obsidian` (unique per vault)
     - User_Vault_2 ...
 
