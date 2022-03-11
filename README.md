@@ -1,4 +1,4 @@
-# Obsidian Super-Vault (In Development)
+# Obsidian Super-Vault (DEPRECATED)
 
 <!-- badges: start -->
 
@@ -7,6 +7,10 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 <!-- badges: end -->
 
 > leverage mulitiple [Obsidian](https://obsidian.md) Vault in the same parent **"Super-Vault"** folder with shared global settings such as hotkeys, plugins, templates.
+
+**Note:** I think the approach using symbolic link might not be a good idea because the link is hard-coded and It will not work when using multiple devices. So I think I'll deprecated this project, but keep visibilty public on github for others to see and potentially fix these issue.
+
+Kittipos: 2022-03-11
 
 ## Structures
 
